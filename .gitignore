@@ -1,4 +1,4 @@
-/config/*
+
 !/config/formats.ts
 !/config/config-example.js
 /logs/**/*
